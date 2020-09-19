@@ -1,3 +1,4 @@
+/* HeroDetailComponent's private CSS styles */
 label {
   display: inline-block;
   width: 3em;
@@ -20,6 +21,7 @@ button {
   padding: 5px 10px;
   border-radius: 4px;
   cursor: pointer;
+  cursor: hand;
 }
 
 button:hover {
